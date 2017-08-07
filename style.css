@@ -1,9 +1,12 @@
-/*body {
+body {
   background-color: lightgreen;
-}*/
-p {
-color: blue;
 }
-li {
+p {
+  color: blue;
+  font-family: Times;
+  font-size: 1.25em;
+}
+ul, ol {
   background-color: green;
+  list-style-type: none;
 }
